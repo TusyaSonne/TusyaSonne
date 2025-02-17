@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm a software developer currently exploring Backend development.<br><br>- 🔭 I’m working as a software developer.<br>- 📚 I'm currently learning Backend development.</p>
+<p align="left">I'm a software developer.<br><br>- 🔭 I’m working as a software developer.<br>- 📚 I'm currently learning Backend development.</p>
 
 ###
 
