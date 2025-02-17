@@ -67,7 +67,13 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusyaSonne)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary> </summary>
+  <p>Here are my GitHub stats:</p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TusyaSonne" alt="GitHub stats" />
+  </div>
+</details>
 
 ###
 
